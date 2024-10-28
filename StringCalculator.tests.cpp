@@ -11,5 +11,5 @@ int expectedValue=0;
 int actualValue=objUnderTest.Add(input);
 
 //Assert
-ASSET_EQ(expectedValue, actualValue);
+ASSERT_EQ(expectedValue, actualValue);
 }
