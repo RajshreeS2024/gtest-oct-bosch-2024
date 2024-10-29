@@ -21,6 +21,7 @@ add_executable(
   TestCases.cpp
   StringCalculator.cpp
   StringCalculator.tests.cpp
+  StringCalculatorDataDrivenTests.cpp
   
  
  )
